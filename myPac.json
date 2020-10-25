@@ -5,7 +5,8 @@
     "recipientName": "",
     "recipientCategory": "No Pay to Pay Designation",
     "requestStatus": "Draft",
-    "submissionDate": ""
+    "submissionDate": "",
+    "action":"PD"
   },
   {
     "id": 1061,
@@ -13,28 +14,32 @@
     "recipientName": "John Kennedy",
     "recipientCategory": "No Pay to Pay Designation",
     "requestStatus": "Rejected",
-    "submissionDate": "28-08-2020"
+    "submissionDate": "28-08-2020",
+    "action":"P"
   },{
     "id": 1062,
     "recipientType": "Individual Candidate",
     "recipientName": "Barack Obama",
     "recipientCategory": "No Pay to Pay Designation",
     "requestStatus": "Approved",
-    "submissionDate": "28-08-2020"
+    "submissionDate": "28-08-2020",
+    "action":"P"
   },{
     "id": 1063,
     "recipientType": "Individual Candidate",
     "recipientName": "Donald Trump",
     "recipientCategory": "No Pay to Pay Designation",
     "requestStatus": "Approval Not Required",
-    "submissionDate": "28-08-2020"
+    "submissionDate": "28-08-2020",
+    "action":"P"
   },{
     "id": 1064,
     "recipientType": "Individual Candidate",
     "recipientName": "George W Bush",
     "recipientCategory": "Rejected",
     "requestStatus": "Draft",
-    "submissionDate": "28-08-2020"
+    "submissionDate": "28-08-2020",
+    "action":"P"
   },
   {
     "id": 1065,
@@ -42,6 +47,7 @@
     "recipientName": "Joe Biden",
     "recipientCategory": "No Pay to Pay Designation",
     "requestStatus": "Pending Approval",
-    "submissionDate": "28-08-2020"
+    "submissionDate": "28-08-2020",
+    "action":"P"
   }
 ]
